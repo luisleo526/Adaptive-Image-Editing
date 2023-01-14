@@ -1,0 +1,12 @@
+# requirements
+torch==1.12.1
+tensorflow==2.10.0
+tqdm
+numpy
+Pillow
+matplotlib
+spacy
+ftfy
+transformers==4.22.2
+accelerate==0.13.0
+diffusers==0.11.1

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "prompt": "A dog sitting in the library"
+    },
+    {
+        "id": 1,
+        "prompt": "A teddy bear sitting on the bed"
+    },
+    {
+        "id": 2,
+        "prompt": "A cat sit on the couch"
+    },
+    {
+        "id": 3,
+        "prompt": "A panda bear stand in a forest"
+    },
+    {
+        "id": 4,
+        "prompt": "A tiger stand on the grassland"
+    }
+]
